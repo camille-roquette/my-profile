@@ -1,0 +1,67 @@
+/*Colors and fonts */
+
+body{
+	background: rgb(200, 200, 200);
+	color: rgb(30, 30, 30 );
+	font-family: helvetica;
+	font-size: 17px;
+	text-align: center;
+}
+
+h1,h2,h3,h4{
+	color: red;
+	font-size: 20px;
+	}
+
+.list-inline i {
+	font-size: 50px;
+	color: green;
+}
+
+.list-inline li {
+	display: inline;
+	padding: 12px;
+}
+ 
+.list-inline {
+	list-style: none;
+}
+
+.list-inline i:hover {
+	color: yellow;
+}
+
+.beginning {
+	background: blue;
+	box-shadow: 0px 10px 30px rgb(50, 50, 50);
+border-radius: 30px;
+}
+
+.secondly{
+	background: blue;
+	box-shadow: 0px 10px 30px rgb(50, 50, 50);
+	border-radius: 25px;
+}
+
+.third {
+	background: blue;
+	box-shadow: 0px 10px 30px rgb(50, 50, 50);
+	border-radius: 25px;
+}
+
+.four {
+	background: blue;
+	box-shadow: 0px 10px 30px rgb(50, 50, 50);
+	border-radius: 25px;
+}
+
+.five {
+	background: blue;
+	box-shadow: 0px 10px 30px rgb(50, 50, 50);
+	border-radius: 25px;
+}
+
+h1{
+	font-family: lora;
+	font-size: 25px;
+}
